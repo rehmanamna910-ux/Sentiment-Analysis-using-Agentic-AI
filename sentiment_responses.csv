@@ -1,0 +1,1340 @@
+respondent_id,question_id,answer_text,sentiment
+1,Q3,Excited or comfortable,POSITIVE
+1,Q5,Very concerned,NEGATIVE
+1,Q6,Agree,POSITIVE
+1,Q7,I don’t trust them,NEGATIVE
+1,Q8,Comfortable,POSITIVE
+1,Q9,Not necessary,POSITIVE
+1,Q10,"Safety, fairness, or job loss",NEGATIVE
+1,Q11,I think it can,POSITIVE
+1,Q12,Hopeful or positive,POSITIVE
+1,Q13,Yes,POSITIVE
+1,Q14,I would trust it,POSITIVE
+2,Q3,Excited or comfortable,POSITIVE
+2,Q5,A little concerned,NEGATIVE
+2,Q6,Disagree,NEGATIVE
+2,Q7,I don’t trust them,NEGATIVE
+2,Q8,Comfortable,POSITIVE
+2,Q9,Maybe,NEUTRAL
+2,Q10,Privacy or transparency,NEGATIVE
+2,Q11,I think it can,POSITIVE
+2,Q12,Worried or negative,NEGATIVE
+2,Q13,No,NEGATIVE
+2,Q14,I would trust it,POSITIVE
+3,Q3,Worried or uneasy,NEGATIVE
+3,Q5,A little concerned,NEGATIVE
+3,Q6,Not sure,NEUTRAL
+3,Q7,Unsure,NEUTRAL
+3,Q8,Comfortable,POSITIVE
+3,Q9,Maybe,NEUTRAL
+3,Q10,Nothing really worries me,POSITIVE
+3,Q11,I think it can,POSITIVE
+3,Q12,Hopeful or positive,POSITIVE
+3,Q13,No,NEGATIVE
+3,Q14,Not sure,NEUTRAL
+4,Q3,Excited or comfortable,POSITIVE
+4,Q5,Not concerned,POSITIVE
+4,Q6,Agree,POSITIVE
+4,Q7,I trust them,POSITIVE
+4,Q8,Comfortable,POSITIVE
+4,Q9,Maybe,NEUTRAL
+4,Q10,"Safety, fairness, or job loss",NEGATIVE
+4,Q11,I think it can,POSITIVE
+4,Q12,Hopeful or positive,POSITIVE
+4,Q13,No,NEGATIVE
+4,Q14,Not sure,NEUTRAL
+5,Q3,Neutral / not sure,NEUTRAL
+5,Q5,Very concerned,NEGATIVE
+5,Q6,Not sure,NEUTRAL
+5,Q7,I trust them,POSITIVE
+5,Q8,Not sure,NEUTRAL
+5,Q9,Maybe,NEUTRAL
+5,Q10,"Safety, fairness, or job loss",NEGATIVE
+5,Q11,I think it can,POSITIVE
+5,Q12,Hopeful or positive,POSITIVE
+5,Q13,Yes,POSITIVE
+5,Q14,I would trust it,POSITIVE
+6,Q3,Neutral / not sure,NEUTRAL
+6,Q5,A little concerned,NEGATIVE
+6,Q6,Agree,POSITIVE
+6,Q7,I trust them,POSITIVE
+6,Q8,Comfortable,POSITIVE
+6,Q9,Maybe,NEUTRAL
+6,Q10,Privacy or transparency,NEGATIVE
+6,Q11,I think it can,POSITIVE
+6,Q12,Neutral / unsure,NEUTRAL
+6,Q13,Maybe / Not sure,NEUTRAL
+6,Q14,I would not trust it,NEGATIVE
+7,Q3,Neutral / not sure,NEUTRAL
+7,Q5,A little concerned,NEGATIVE
+7,Q6,Not sure,NEUTRAL
+7,Q7,I don’t trust them,NEGATIVE
+7,Q8,Uncomfortable,NEGATIVE
+7,Q9,Absolutely necessary,NEGATIVE
+7,Q10,"Safety, fairness, or job loss",NEGATIVE
+7,Q11,Not sure,NEUTRAL
+7,Q12,Hopeful or positive,POSITIVE
+7,Q13,Yes,POSITIVE
+7,Q14,Not sure,NEUTRAL
+8,Q3,Excited or comfortable,POSITIVE
+8,Q5,A little concerned,NEGATIVE
+8,Q6,Agree,POSITIVE
+8,Q7,I don’t trust them,NEGATIVE
+8,Q8,Uncomfortable,NEGATIVE
+8,Q9,Absolutely necessary,NEGATIVE
+8,Q10,Privacy or transparency,NEGATIVE
+8,Q11,I think it can,POSITIVE
+8,Q12,Hopeful or positive,POSITIVE
+8,Q13,Yes,POSITIVE
+8,Q14,I would not trust it,NEGATIVE
+9,Q3,Neutral / not sure,NEUTRAL
+9,Q5,Very concerned,NEGATIVE
+9,Q6,Not sure,NEUTRAL
+9,Q7,I trust them,POSITIVE
+9,Q8,Not sure,NEUTRAL
+9,Q9,Absolutely necessary,NEGATIVE
+9,Q10,Privacy or transparency,NEGATIVE
+9,Q11,I think it can,POSITIVE
+9,Q12,Hopeful or positive,POSITIVE
+9,Q13,Yes,POSITIVE
+9,Q14,I would not trust it,NEGATIVE
+10,Q3,Neutral / not sure,NEUTRAL
+10,Q5,A little concerned,NEGATIVE
+10,Q6,Agree,POSITIVE
+10,Q7,I trust them,POSITIVE
+10,Q8,Uncomfortable,NEGATIVE
+10,Q9,Maybe,NEUTRAL
+10,Q10,"Safety, fairness, or job loss",NEGATIVE
+10,Q11,I think it can,POSITIVE
+10,Q12,Neutral / unsure,NEUTRAL
+10,Q13,Yes,POSITIVE
+10,Q14,I would not trust it,NEGATIVE
+,,,
+11,Q3,Neutral / not sure,NEUTRAL
+11,Q5,A little concerned,NEGATIVE
+11,Q6,Disagree,NEGATIVE
+11,Q7,I trust them,POSITIVE
+11,Q8,Comfortable,POSITIVE
+11,Q9,Absolutely necessary,NEGATIVE
+11,Q10,"Safety, fairness, or job loss",NEGATIVE
+11,Q11,I think it can,POSITIVE
+11,Q12,Hopeful or positive,POSITIVE
+11,Q13,Yes,POSITIVE
+11,Q14,Not sure,NEUTRAL
+12,Q3,Excited or comfortable,POSITIVE
+12,Q5,Not concerned,POSITIVE
+12,Q6,Disagree,NEGATIVE
+12,Q7,I trust them,POSITIVE
+12,Q8,Not sure,NEUTRAL
+12,Q9,Maybe,NEUTRAL
+12,Q10,Nothing really worries me,POSITIVE
+12,Q11,I think it can,POSITIVE
+12,Q12,Hopeful or positive,POSITIVE
+12,Q13,Yes,POSITIVE
+12,Q14,I would trust it,POSITIVE
+13,Q3,Neutral / not sure,NEUTRAL
+13,Q5,A little concerned,NEGATIVE
+13,Q6,Disagree,NEGATIVE
+13,Q7,I trust them,POSITIVE
+13,Q8,Comfortable,POSITIVE
+13,Q9,Absolutely necessary,NEGATIVE
+13,Q10,Privacy or transparency,NEGATIVE
+13,Q11,I think it can,POSITIVE
+13,Q12,Hopeful or positive,POSITIVE
+13,Q13,Yes,POSITIVE
+13,Q14,I would trust it,POSITIVE
+14,Q3,Neutral / not sure,NEUTRAL
+14,Q5,A little concerned,NEGATIVE
+14,Q6,Agree,POSITIVE
+14,Q7,Unsure,NEUTRAL
+14,Q8,Uncomfortable,NEGATIVE
+14,Q9,Absolutely necessary,NEGATIVE
+14,Q10,Privacy or transparency,NEGATIVE
+14,Q11,I don’t think so,NEGATIVE
+14,Q12,Neutral / unsure,NEUTRAL
+14,Q13,Maybe / Not sure,NEUTRAL
+14,Q14,Not sure,NEUTRAL
+15,Q3,Neutral / not sure,NEUTRAL
+15,Q5,Very concerned,NEGATIVE
+15,Q6,Not sure,NEUTRAL
+15,Q7,Unsure,NEUTRAL
+15,Q8,Comfortable,POSITIVE
+15,Q9,Absolutely necessary,NEGATIVE
+15,Q10,Privacy or transparency,NEGATIVE
+15,Q11,I think it can,POSITIVE
+15,Q12,Neutral / unsure,NEUTRAL
+15,Q13,Yes,POSITIVE
+15,Q14,I would trust it,POSITIVE
+16,Q3,Excited or comfortable,POSITIVE
+16,Q5,A little concerned,NEGATIVE
+16,Q6,Agree,POSITIVE
+16,Q7,Unsure,NEUTRAL
+16,Q8,Comfortable,POSITIVE
+16,Q9,Not necessary,POSITIVE
+16,Q10,Privacy or transparency,NEGATIVE
+16,Q11,I think it can,POSITIVE
+16,Q12,Hopeful or positive,POSITIVE
+16,Q13,Yes,POSITIVE
+16,Q14,I would trust it,POSITIVE
+17,Q3,Neutral / not sure,NEUTRAL
+17,Q5,Not concerned,POSITIVE
+17,Q6,Not sure,NEUTRAL
+17,Q7,Unsure,NEUTRAL
+17,Q8,Comfortable,POSITIVE
+17,Q9,Absolutely necessary,NEGATIVE
+17,Q10,Privacy or transparency,NEGATIVE
+17,Q11,I think it can,POSITIVE
+17,Q12,Neutral / unsure,NEUTRAL
+17,Q13,Yes,POSITIVE
+17,Q14,Not sure,NEUTRAL
+18,Q3,Worried or uneasy,NEGATIVE
+18,Q5,Very concerned,NEGATIVE
+18,Q6,Not sure,NEUTRAL
+18,Q7,Unsure,NEUTRAL
+18,Q8,Comfortable,POSITIVE
+18,Q9,Absolutely necessary,NEGATIVE
+18,Q10,Privacy or transparency,NEGATIVE
+18,Q11,Not sure,NEUTRAL
+18,Q12,Worried or negative,NEGATIVE
+18,Q13,Yes,POSITIVE
+18,Q14,I would trust it,POSITIVE
+19,Q3,Excited or comfortable,POSITIVE
+19,Q5,Not concerned,POSITIVE
+19,Q6,Agree,POSITIVE
+19,Q7,Unsure,NEUTRAL
+19,Q8,Uncomfortable,NEGATIVE
+19,Q9,Absolutely necessary,NEGATIVE
+19,Q10,"Safety, fairness, or job loss",NEGATIVE
+19,Q11,I think it can,POSITIVE
+19,Q12,Hopeful or positive,POSITIVE
+19,Q13,Yes,POSITIVE
+19,Q14,I would trust it,POSITIVE
+,,,
+20,Q3,Excited or comfortable,POSITIVE
+20,Q5,Not concerned,POSITIVE
+20,Q6,Agree,POSITIVE
+20,Q7,Unsure,NEUTRAL
+20,Q8,Uncomfortable,NEGATIVE
+20,Q9,Absolutely necessary,NEGATIVE
+20,Q10,"Safety, fairness, or job loss",NEGATIVE
+20,Q11,I think it can,POSITIVE
+20,Q12,Hopeful or positive,POSITIVE
+20,Q13,Yes,POSITIVE
+20,Q14,I would trust it,POSITIVE
+21,Q3,Neutral / not sure,NEUTRAL
+21,Q5,A little concerned,NEGATIVE
+21,Q6,Agree,POSITIVE
+21,Q7,I trust them,POSITIVE
+21,Q8,Not sure,NEUTRAL
+21,Q9,Maybe,NEUTRAL
+21,Q10,"Safety, fairness, or job loss",NEGATIVE
+21,Q11,Not sure,NEUTRAL
+21,Q12,Hopeful or positive,POSITIVE
+21,Q13,Maybe / Not sure,NEUTRAL
+21,Q14,Not sure,NEUTRAL
+22,Q3,Excited or comfortable,POSITIVE
+22,Q5,A little concerned,NEGATIVE
+22,Q6,Disagree,NEGATIVE
+22,Q7,I trust them,POSITIVE
+22,Q8,Not sure,NEUTRAL
+22,Q9,Absolutely necessary,NEGATIVE
+22,Q10,Privacy or transparency,NEGATIVE
+22,Q11,I think it can,POSITIVE
+22,Q12,Hopeful or positive,POSITIVE
+22,Q13,Yes,POSITIVE
+22,Q14,I would trust it,POSITIVE
+23,Q3,Neutral / not sure,NEUTRAL
+23,Q5,A little concerned,NEGATIVE
+23,Q6,Disagree,NEGATIVE
+23,Q7,I don’t trust them,NEGATIVE
+23,Q8,Comfortable,POSITIVE
+23,Q9,Absolutely necessary,NEGATIVE
+23,Q10,Privacy or transparency,NEGATIVE
+23,Q11,I think it can,POSITIVE
+23,Q12,Hopeful or positive,POSITIVE
+23,Q13,Yes,POSITIVE
+23,Q14,I would not trust it,NEGATIVE
+24,Q3,Neutral / not sure,NEUTRAL
+24,Q5,Not concerned,POSITIVE
+24,Q6,Not sure,NEUTRAL
+24,Q7,I don’t trust them,NEGATIVE
+24,Q8,Comfortable,POSITIVE
+24,Q9,Absolutely necessary,NEGATIVE
+24,Q10,Privacy or transparency,NEGATIVE
+24,Q11,I don’t think so,NEGATIVE
+24,Q12,Neutral / unsure,NEUTRAL
+24,Q13,Yes,POSITIVE
+24,Q14,I would not trust it,NEGATIVE
+25,Q3,Neutral / not sure,NEUTRAL
+25,Q5,Not concerned,POSITIVE
+25,Q6,Not sure,NEUTRAL
+25,Q7,Not sure,NEUTRAL
+25,Q8,Comfortable,POSITIVE
+25,Q9,Absolutely necessary,NEGATIVE
+25,Q10,Nothing really worries me,POSITIVE
+25,Q11,I think it can,POSITIVE
+25,Q12,Neutral / unsure,NEUTRAL
+25,Q13,Yes,POSITIVE
+25,Q14,I would not trust it,NEGATIVE
+26,Q3,Neutral / not sure,NEUTRAL
+26,Q5,A little concerned,NEGATIVE
+26,Q6,Not sure,NEUTRAL
+26,Q7,Unsure,NEUTRAL
+26,Q8,Not sure,NEUTRAL
+26,Q9,Maybe,NEUTRAL
+26,Q10,"Safety, fairness, or job loss",NEGATIVE
+26,Q11,Not sure,NEUTRAL
+26,Q12,Neutral / unsure,NEUTRAL
+26,Q13,Maybe / Not sure,NEUTRAL
+26,Q14,Not sure,NEUTRAL
+27,Q3,Excited or comfortable,POSITIVE
+27,Q5,A little concerned,NEGATIVE
+27,Q6,Agree,POSITIVE
+27,Q7,I trust them,POSITIVE
+27,Q8,Comfortable,POSITIVE
+27,Q9,Absolutely necessary,NEGATIVE
+27,Q10,"Safety, fairness, or job loss",NEGATIVE
+27,Q11,I think it can,POSITIVE
+27,Q12,Hopeful or positive,POSITIVE
+27,Q13,Yes,POSITIVE
+27,Q14,I would trust it,POSITIVE
+28,Q3,Worried or uneasy,NEGATIVE
+28,Q5,Not concerned,POSITIVE
+28,Q6,Not sure,NEUTRAL
+28,Q7,Unsure,NEUTRAL
+28,Q8,Comfortable,POSITIVE
+28,Q9,Absolutely necessary,NEGATIVE
+28,Q10,Nothing really worries me,POSITIVE
+28,Q11,I think it can,POSITIVE
+28,Q12,Hopeful or positive,POSITIVE
+28,Q13,Yes,POSITIVE
+28,Q14,I would trust it,POSITIVE
+29,Q3,Excited or comfortable,POSITIVE
+29,Q5,A little concerned,NEGATIVE
+29,Q6,Disagree,NEGATIVE
+29,Q7,I trust them,POSITIVE
+29,Q8,Comfortable,POSITIVE
+29,Q9,Absolutely necessary,NEGATIVE
+29,Q10,Privacy or transparency,NEGATIVE
+29,Q11,I think it can,POSITIVE
+29,Q12,Hopeful or positive,POSITIVE
+29,Q13,Yes,POSITIVE
+29,Q14,I would trust it,POSITIVE
+30,Q3,Neutral / not sure,NEUTRAL
+30,Q5,Not concerned,POSITIVE
+30,Q6,Agree,POSITIVE
+30,Q7,Unsure,NEUTRAL
+30,Q8,Uncomfortable,NEGATIVE
+30,Q9,Not necessary,POSITIVE
+30,Q10,Nothing really worries me,POSITIVE
+30,Q11,I don’t think so,NEGATIVE
+30,Q12,Worried or negative,NEGATIVE
+30,Q13,Yes,POSITIVE
+30,Q14,I would trust it,POSITIVE
+,,,
+31,Q3,Worried or uneasy,NEGATIVE
+31,Q5,Very concerned,NEGATIVE
+31,Q6,Not sure,NEUTRAL
+31,Q7,I trust them,POSITIVE
+31,Q8,Comfortable,POSITIVE
+31,Q9,Not necessary,POSITIVE
+31,Q10,"Safety, fairness, or job loss",NEGATIVE
+31,Q11,I think it can,POSITIVE
+31,Q12,Hopeful or positive,POSITIVE
+31,Q13,Yes,POSITIVE
+31,Q14,I would not trust it,NEGATIVE
+32,Q3,Worried or uneasy,NEGATIVE
+32,Q5,Very concerned,NEGATIVE
+32,Q6,Disagree,NEGATIVE
+32,Q7,Unsure,NEUTRAL
+32,Q8,Comfortable,POSITIVE
+32,Q9,Maybe,NEUTRAL
+32,Q10,Privacy or transparency,NEGATIVE
+32,Q11,Not sure,NEUTRAL
+32,Q12,Worried or negative,NEGATIVE
+32,Q13,Maybe / Not sure,NEUTRAL
+32,Q14,I would not trust it,NEGATIVE
+33,Q3,Neutral / not sure,NEUTRAL
+33,Q5,Not concerned,POSITIVE
+33,Q6,Disagree,NEGATIVE
+33,Q7,I trust them,POSITIVE
+33,Q8,Not sure,NEUTRAL
+33,Q9,Maybe,NEUTRAL
+33,Q10,Privacy or transparency,NEGATIVE
+33,Q11,Not sure,NEUTRAL
+33,Q12,Neutral / unsure,NEUTRAL
+33,Q13,Yes,POSITIVE
+33,Q14,Not sure,NEUTRAL
+34,Q3,Worried or uneasy,NEGATIVE
+34,Q5,A little concerned,NEGATIVE
+34,Q6,Agree,POSITIVE
+34,Q7,Unsure,NEUTRAL
+34,Q8,Comfortable,POSITIVE
+34,Q9,Maybe,NEUTRAL
+34,Q10,Privacy or transparency,NEGATIVE
+34,Q11,I think it can,POSITIVE
+34,Q12,Hopeful or positive,POSITIVE
+34,Q13,No,NEGATIVE
+34,Q14,Not sure,NEUTRAL
+35,Q3,Excited or comfortable,POSITIVE
+35,Q5,Very concerned,NEGATIVE
+35,Q6,Agree,POSITIVE
+35,Q7,I trust them,POSITIVE
+35,Q8,Comfortable,POSITIVE
+35,Q9,Maybe,NEUTRAL
+35,Q10,"Safety, fairness, or job loss",NEGATIVE
+35,Q11,Not sure,NEUTRAL
+35,Q12,Hopeful or positive,POSITIVE
+35,Q13,Yes,POSITIVE
+35,Q14,I would trust it,POSITIVE
+36,Q3,Excited or comfortable,POSITIVE
+36,Q5,A little concerned,NEGATIVE
+36,Q6,Agree,POSITIVE
+36,Q7,I trust them,POSITIVE
+36,Q8,Not sure,NEUTRAL
+36,Q9,Maybe,NEUTRAL
+36,Q10,"Safety, fairness, or job loss",NEGATIVE
+36,Q11,I think it can,POSITIVE
+36,Q12,Worried or negative,NEGATIVE
+36,Q13,Yes,POSITIVE
+36,Q14,I would trust it,POSITIVE
+37,Q3,Neutral / not sure,NEUTRAL
+37,Q5,A little concerned,NEGATIVE
+37,Q6,Disagree,NEGATIVE
+37,Q7,I don’t trust them,NEGATIVE
+37,Q8,Not sure,NEUTRAL
+37,Q9,Absolutely necessary,NEGATIVE
+37,Q10,Privacy or transparency,NEGATIVE
+37,Q11,I think it can,POSITIVE
+37,Q12,Neutral / unsure,NEUTRAL
+37,Q13,Yes,POSITIVE
+37,Q14,Not sure,NEUTRAL
+38,Q3,Neutral / not sure,NEUTRAL
+38,Q5,A little concerned,NEGATIVE
+38,Q6,Agree,POSITIVE
+38,Q7,Unsure,NEUTRAL
+38,Q8,Uncomfortable,NEGATIVE
+38,Q9,Absolutely necessary,NEGATIVE
+38,Q10,Privacy or transparency,NEGATIVE
+38,Q11,I think it can,POSITIVE
+38,Q12,Hopeful or positive,POSITIVE
+38,Q13,Yes,POSITIVE
+38,Q14,Not sure,NEUTRAL
+39,Q3,Neutral / not sure,NEUTRAL
+39,Q5,A little concerned,NEGATIVE
+39,Q6,Not sure,NEUTRAL
+39,Q7,Unsure,NEUTRAL
+39,Q8,Not sure,NEUTRAL
+39,Q9,Absolutely necessary,NEGATIVE
+39,Q10,"Safety, fairness, or job loss",NEGATIVE
+39,Q11,I think it can,POSITIVE
+39,Q12,Hopeful or positive,POSITIVE
+39,Q13,Yes,POSITIVE
+39,Q14,Not sure,NEUTRAL
+40,Q3,Worried or uneasy,NEGATIVE
+40,Q5,Very concerned,NEGATIVE
+40,Q6,Not sure,NEUTRAL
+40,Q7,Unsure,NEUTRAL
+40,Q8,Uncomfortable,NEGATIVE
+40,Q9,Absolutely necessary,NEGATIVE
+40,Q10,Privacy or transparency,NEGATIVE
+40,Q11,I think it can,POSITIVE
+40,Q12,Worried or negative,NEGATIVE
+40,Q13,Maybe / Not sure,NEUTRAL
+40,Q14,I would trust it,POSITIVE
+,,,
+41,Q3,Neutral / not sure,NEUTRAL
+41,Q5,Very concerned,NEGATIVE
+41,Q6,Not sure,NEUTRAL
+41,Q7,I trust them,POSITIVE
+41,Q8,Comfortable,POSITIVE
+41,Q9,Maybe,NEUTRAL
+41,Q10,Nothing really worries me,POSITIVE
+41,Q11,I think it can,POSITIVE
+41,Q12,Hopeful or positive,POSITIVE
+41,Q13,Yes,POSITIVE
+41,Q14,I would trust it,POSITIVE
+42,Q3,Excited or comfortable,POSITIVE
+42,Q5,A little concerned,NEGATIVE
+42,Q6,Disagree,NEGATIVE
+42,Q7,I don’t trust them,NEGATIVE
+42,Q8,Comfortable,POSITIVE
+42,Q9,Absolutely necessary,NEGATIVE
+42,Q10,"Safety, fairness, or job loss",NEGATIVE
+42,Q11,I think it can,POSITIVE
+42,Q12,Worried or negative,NEGATIVE
+42,Q13,Yes,POSITIVE
+42,Q14,I would not trust it,NEGATIVE
+43,Q3,Neutral / not sure,NEUTRAL
+43,Q5,A little concerned,NEGATIVE
+43,Q6,Agree,POSITIVE
+43,Q7,I trust them,POSITIVE
+43,Q8,Uncomfortable,NEGATIVE
+43,Q9,Absolutely necessary,NEGATIVE
+43,Q10,"Safety, fairness, or job loss",NEGATIVE
+43,Q11,I think it can,POSITIVE
+43,Q12,Neutral / unsure,NEUTRAL
+43,Q13,Yes,POSITIVE
+43,Q14,Not sure,NEUTRAL
+44,Q3,Excited or comfortable,POSITIVE
+44,Q5,A little concerned,NEGATIVE
+44,Q6,Agree,POSITIVE
+44,Q7,I trust them,POSITIVE
+44,Q8,Comfortable,POSITIVE
+44,Q9,Maybe,NEUTRAL
+44,Q10,Privacy or transparency,NEGATIVE
+44,Q11,Not sure,NEUTRAL
+44,Q12,Hopeful or positive,POSITIVE
+44,Q13,Yes,POSITIVE
+44,Q14,I would trust it,POSITIVE
+45,Q3,Neutral / not sure,NEUTRAL
+45,Q5,Not concerned,POSITIVE
+45,Q6,Agree,POSITIVE
+45,Q7,Unsure,NEUTRAL
+45,Q8,Comfortable,POSITIVE
+45,Q9,Not necessary,POSITIVE
+45,Q10,Nothing really worries me,POSITIVE
+45,Q11,I think it can,POSITIVE
+45,Q12,Hopeful or positive,POSITIVE
+45,Q13,Maybe / Not sure,NEUTRAL
+45,Q14,Not sure,NEUTRAL
+46,Q3,Neutral / not sure,NEUTRAL
+46,Q5,A little concerned,NEGATIVE
+46,Q6,Disagree,NEGATIVE
+46,Q7,I don’t trust them,NEGATIVE
+46,Q8,Comfortable,POSITIVE
+46,Q9,Absolutely necessary,NEGATIVE
+46,Q10,Privacy or transparency,NEGATIVE
+46,Q11,I think it can,POSITIVE
+46,Q12,Hopeful or positive,POSITIVE
+46,Q13,Yes,POSITIVE
+46,Q14,I would not trust it,NEGATIVE
+47,Q3,Neutral / not sure,NEUTRAL
+47,Q5,A little concerned,NEGATIVE
+47,Q6,Not sure,NEUTRAL
+47,Q7,Unsure,NEUTRAL
+47,Q8,Not sure,NEUTRAL
+47,Q9,Absolutely necessary,NEGATIVE
+47,Q10,"Safety, fairness, or job loss",NEGATIVE
+47,Q11,I think it can,POSITIVE
+47,Q12,Worried or negative,NEGATIVE
+47,Q13,Yes,POSITIVE
+47,Q14,Not sure,NEUTRAL
+48,Q3,Worried or uneasy,NEGATIVE
+48,Q5,Very concerned,NEGATIVE
+48,Q6,Disagree,NEGATIVE
+48,Q7,Unsure,NEUTRAL
+48,Q8,Uncomfortable,NEGATIVE
+48,Q9,Absolutely necessary,NEGATIVE
+48,Q10,Privacy or transparency,NEGATIVE
+48,Q11,I think it can,POSITIVE
+48,Q12,Worried or negative,NEGATIVE
+48,Q13,Maybe / Not sure,NEUTRAL
+48,Q14,I would not trust it,NEGATIVE
+49,Q3,Neutral / not sure,NEUTRAL
+49,Q5,Very concerned,NEGATIVE
+49,Q6,Agree,POSITIVE
+49,Q7,Unsure,NEUTRAL
+49,Q8,Not sure,NEUTRAL
+49,Q9,Absolutely necessary,NEGATIVE
+49,Q10,Privacy or transparency,NEGATIVE
+49,Q11,I think it can,POSITIVE
+49,Q12,Hopeful or positive,POSITIVE
+49,Q13,Yes,POSITIVE
+49,Q14,I would trust it,POSITIVE
+50,Q3,Neutral / not sure,NEUTRAL
+50,Q5,A little concerned,NEGATIVE
+50,Q6,Agree,POSITIVE
+50,Q7,I trust them,POSITIVE
+50,Q8,Comfortable,POSITIVE
+50,Q9,Maybe,NEUTRAL
+50,Q10,"Safety, fairness, or job loss",NEGATIVE
+50,Q11,I think it can,POSITIVE
+50,Q12,Hopeful or positive,POSITIVE
+50,Q13,Yes,POSITIVE
+50,Q14,I would trust it,POSITIVE
+,,,
+51,Q3,Neutral / not sure,NEUTRAL
+51,Q4,Sometimes,NEUTRAL
+51,Q5,Neutral / not sure,NEUTRAL
+51,Q6,Not confident at all,NEGATIVE
+51,Q7,A little concerned,NEGATIVE
+51,Q8,Disagree,NEGATIVE
+51,Q9,I don’t trust them,NEGATIVE
+51,Q10,Not sure,NEUTRAL
+51,Q11,Absolutely necessary,NEGATIVE
+51,Q12,Privacy or transparency,NEGATIVE
+51,Q13,I think it can,POSITIVE
+51,Q14,Neutral / unsure,NEUTRAL
+51,Q15,No,NEGATIVE
+51,Q16,Not sure,NEUTRAL
+52,Q3,Neutral / not sure,NEUTRAL
+52,Q4,Sometimes,NEUTRAL
+52,Q5,Somewhat confident,POSITIVE
+52,Q6,A little concerned,NEGATIVE
+52,Q7,Agree,POSITIVE
+52,Q8,I trust them,POSITIVE
+52,Q9,Not sure,NEUTRAL
+52,Q10,Absolutely necessary,NEGATIVE
+52,Q11,Privacy or transparency,NEGATIVE
+52,Q12,I think it can,POSITIVE
+52,Q13,Hopeful or positive,POSITIVE
+52,Q14,Yes,POSITIVE
+52,Q15,I would trust it,POSITIVE
+53,Q3,Excited or comfortable,POSITIVE
+53,Q4,Often or very often,POSITIVE
+53,Q5,Somewhat confident,POSITIVE
+53,Q6,Not concerned,POSITIVE
+53,Q7,Disagree,NEGATIVE
+53,Q8,I don’t trust them,NEGATIVE
+53,Q9,Uncomfortable,NEGATIVE
+53,Q10,Maybe,NEUTRAL
+53,Q11,Privacy or transparency,NEGATIVE
+53,Q12,I think it can,POSITIVE
+53,Q13,Hopeful or positive,POSITIVE
+53,Q14,Yes,POSITIVE
+53,Q15,Not sure,NEUTRAL
+54,Q3,Worried or uneasy,NEGATIVE
+54,Q4,Often or very often,POSITIVE
+54,Q5,Somewhat confident,POSITIVE
+54,Q6,A little concerned,NEGATIVE
+54,Q7,Agree,POSITIVE
+54,Q8,I don’t trust them,NEGATIVE
+54,Q9,Uncomfortable,NEGATIVE
+54,Q10,Not necessary,POSITIVE
+54,Q11,Nothing really worries me,POSITIVE
+54,Q12,Not sure,NEUTRAL
+54,Q13,Hopeful or positive,POSITIVE
+54,Q14,No,NEGATIVE
+54,Q15,Not sure,NEUTRAL
+55,Q3,Neutral / not sure,NEUTRAL
+55,Q4,Sometimes,NEUTRAL
+55,Q5,Very confident,POSITIVE
+55,Q6,A little concerned,NEGATIVE
+55,Q7,Agree,POSITIVE
+55,Q8,Unsure,NEUTRAL
+55,Q9,Comfortable,POSITIVE
+55,Q10,Absolutely necessary,NEGATIVE
+55,Q11,Privacy or transparency,NEGATIVE
+55,Q12,Not sure,NEUTRAL
+55,Q13,Neutral / unsure,NEUTRAL
+55,Q14,Maybe / Not sure,NEUTRAL
+55,Q15,Not sure,NEUTRAL
+56,Q3,Worried or uneasy,NEGATIVE
+56,Q4,Sometimes,NEUTRAL
+56,Q5,Not confident at all,NEGATIVE
+56,Q6,A little concerned,NEGATIVE
+56,Q7,Disagree,NEGATIVE
+56,Q8,I don’t trust them,NEGATIVE
+56,Q9,Comfortable,POSITIVE
+56,Q10,Maybe,NEUTRAL
+56,Q11,"Safety, fairness, or job loss",NEGATIVE
+56,Q12,I think it can,POSITIVE
+56,Q13,Worried or negative,NEGATIVE
+56,Q14,No,NEGATIVE
+56,Q15,I would not trust it,NEGATIVE
+57,Q3,Worried or uneasy,NEGATIVE
+57,Q4,Often or very often,POSITIVE
+57,Q5,Somewhat confident,POSITIVE
+57,Q6,A little concerned,NEGATIVE
+57,Q7,Agree,POSITIVE
+57,Q8,Unsure,NEUTRAL
+57,Q9,Not sure,NEUTRAL
+57,Q10,Not necessary,POSITIVE
+57,Q11,"Safety, fairness, or job loss",NEGATIVE
+57,Q12,Not sure,NEUTRAL
+57,Q13,Worried or negative,NEGATIVE
+57,Q14,No,NEGATIVE
+57,Q15,I would not trust it,NEGATIVE
+58,Q3,Neutral / not sure,NEUTRAL
+58,Q4,Sometimes,NEUTRAL
+58,Q5,Somewhat confident,POSITIVE
+58,Q6,A little concerned,NEGATIVE
+58,Q7,Agree,POSITIVE
+58,Q8,I don’t trust them,NEGATIVE
+58,Q9,Not sure,NEUTRAL
+58,Q10,Maybe,NEUTRAL
+58,Q11,"Safety, fairness, or job loss",NEGATIVE
+58,Q12,I think it can,POSITIVE
+58,Q13,Hopeful or positive,POSITIVE
+58,Q14,Yes,POSITIVE
+58,Q15,I would not trust it,NEGATIVE
+59,Q3,Worried or uneasy,NEGATIVE
+59,Q4,Sometimes,NEUTRAL
+59,Q5,Not confident at all,NEGATIVE
+59,Q6,A little concerned,NEGATIVE
+59,Q7,Agree,POSITIVE
+59,Q8,Unsure,NEUTRAL
+59,Q9,Not necessary,POSITIVE
+59,Q10,"Safety, fairness, or job loss",NEGATIVE
+59,Q11,I think it can,POSITIVE
+59,Q12,Worried or negative,NEGATIVE
+59,Q13,No,NEGATIVE
+59,Q14,I would not trust it,NEGATIVE
+60,Q3,Neutral / not sure,NEUTRAL
+60,Q4,Often or very often,POSITIVE
+60,Q5,Somewhat confident,POSITIVE
+60,Q6,Not concerned,POSITIVE
+60,Q7,Agree,POSITIVE
+60,Q8,Unsure,NEUTRAL
+60,Q9,Not sure,NEUTRAL
+60,Q10,Maybe,NEUTRAL
+60,Q11,Privacy or transparency,NEGATIVE
+60,Q12,I think it can,POSITIVE
+60,Q13,Neutral / unsure,NEUTRAL
+60,Q14,Yes,POSITIVE
+60,Q15,Not sure,NEUTRAL
+,,,
+61,Q3,Excited or comfortable,POSITIVE
+61,Q4,Not confident at all,NEGATIVE
+61,Q5,A little concerned,NEGATIVE
+61,Q6,Agree,POSITIVE
+61,Q7,I trust them,POSITIVE
+61,Q8,Not sure,NEUTRAL
+61,Q9,Maybe,NEUTRAL
+61,Q10,Nothing really worries me,POSITIVE
+61,Q11,I think it can,POSITIVE
+61,Q12,Hopeful or positive,POSITIVE
+61,Q13,Yes,POSITIVE
+61,Q14,Not sure,NEUTRAL
+62,Q3,Neutral / not sure,NEUTRAL
+62,Q4,Sometimes,NEUTRAL
+62,Q5,Somewhat confident,POSITIVE
+62,Q6,Not concerned,POSITIVE
+62,Q7,Not sure,NEUTRAL
+62,Q8,Unsure,NEUTRAL
+62,Q9,Uncomfortable,NEGATIVE
+62,Q10,Maybe,NEUTRAL
+62,Q11,Privacy or transparency,NEGATIVE
+62,Q12,I think it can,POSITIVE
+62,Q13,Neutral / unsure,NEUTRAL
+62,Q14,Yes,POSITIVE
+62,Q15,Not sure,NEUTRAL
+63,Q3,Neutral / not sure,NEUTRAL
+63,Q4,Sometimes,NEUTRAL
+63,Q5,Not confident at all,NEGATIVE
+63,Q6,A little concerned,NEGATIVE
+63,Q7,Not sure,NEUTRAL
+63,Q8,Unsure,NEUTRAL
+63,Q9,Not sure,NEUTRAL
+63,Q10,Maybe,NEUTRAL
+63,Q11,Nothing really worries me,POSITIVE
+63,Q12,Not sure,NEUTRAL
+63,Q13,Neutral / unsure,NEUTRAL
+63,Q14,Maybe / Not sure,NEUTRAL
+64,Q3,Worried or uneasy,NEGATIVE
+64,Q4,Often or very often,POSITIVE
+64,Q5,Somewhat confident,POSITIVE
+64,Q6,A little concerned,NEGATIVE
+64,Q7,Agree,POSITIVE
+64,Q8,I trust them,POSITIVE
+64,Q9,Comfortable,POSITIVE
+64,Q10,Maybe,NEUTRAL
+64,Q11,Privacy or transparency,NEGATIVE
+64,Q12,I think it can,POSITIVE
+64,Q13,Hopeful or positive,POSITIVE
+64,Q14,Yes,POSITIVE
+64,Q15,Not sure,NEUTRAL
+65,Q3,Neutral / not sure,NEUTRAL
+65,Q4,Sometimes,NEUTRAL
+65,Q5,Somewhat confident,POSITIVE
+65,Q6,Not concerned,POSITIVE
+65,Q7,Not sure,NEUTRAL
+65,Q8,Unsure,NEUTRAL
+65,Q9,Uncomfortable,NEGATIVE
+65,Q10,Maybe,NEUTRAL
+65,Q11,Privacy or transparency,NEGATIVE
+65,Q12,I think it can,POSITIVE
+65,Q13,Hopeful or positive,POSITIVE
+65,Q14,Yes,POSITIVE
+65,Q15,Not sure,NEUTRAL
+,,,
+66,Q3,Neutral / not sure,NEUTRAL
+66,Q4,Often or very often,POSITIVE
+66,Q5,Very confident,POSITIVE
+66,Q6,A little concerned,NEGATIVE
+66,Q7,Agree,POSITIVE
+66,Q8,I trust them,POSITIVE
+66,Q9,Comfortable,POSITIVE
+66,Q10,Maybe,NEUTRAL
+66,Q11,Privacy or transparency,NEGATIVE
+66,Q12,I think it can,POSITIVE
+66,Q13,Hopeful or positive,POSITIVE
+66,Q14,Yes,POSITIVE
+66,Q15,Not sure,NEUTRAL
+67,Q3,Neutral / not sure,NEUTRAL
+67,Q4,Often or very often,POSITIVE
+67,Q5,Somewhat confident,POSITIVE
+67,Q6,A little concerned,NEGATIVE
+67,Q7,Agree,POSITIVE
+67,Q8,I trust them,POSITIVE
+67,Q9,Comfortable,POSITIVE
+67,Q10,Maybe,NEUTRAL
+67,Q11,Privacy or transparency,NEGATIVE
+67,Q12,I think it can,POSITIVE
+67,Q13,Hopeful or positive,POSITIVE
+67,Q14,Yes,POSITIVE
+67,Q15,Not sure,NEUTRAL
+68,Q3,Excited or comfortable,POSITIVE
+68,Q4,Often or very often,POSITIVE
+68,Q5,Not confident at all,NEGATIVE
+68,Q6,A little concerned,NEGATIVE
+68,Q7,Agree,POSITIVE
+68,Q8,I trust them,POSITIVE
+68,Q9,Not sure,NEUTRAL
+68,Q10,Maybe,NEUTRAL
+68,Q11,Nothing really worries me,POSITIVE
+68,Q12,I think it can,POSITIVE
+68,Q13,Hopeful or positive,POSITIVE
+68,Q14,Yes,POSITIVE
+68,Q15,Not sure,NEUTRAL
+69,Q3,Neutral / not sure,NEUTRAL
+69,Q4,Sometimes,NEUTRAL
+69,Q5,Somewhat confident,POSITIVE
+69,Q6,Not concerned,POSITIVE
+69,Q7,Not sure,NEUTRAL
+69,Q8,Unsure,NEUTRAL
+69,Q9,Uncomfortable,NEGATIVE
+69,Q10,Maybe,NEUTRAL
+69,Q11,Privacy or transparency,NEGATIVE
+69,Q12,I think it can,POSITIVE
+69,Q13,Neutral / unsure,NEUTRAL
+69,Q14,Yes,POSITIVE
+69,Q15,Not sure,NEUTRAL
+70,Q3,Neutral / not sure,NEUTRAL
+70,Q4,Sometimes,NEUTRAL
+70,Q5,Not confident at all,NEGATIVE
+70,Q6,A little concerned,NEGATIVE
+70,Q7,Not sure,NEUTRAL
+70,Q8,Unsure,NEUTRAL
+70,Q9,Not sure,NEUTRAL
+70,Q10,Maybe,NEUTRAL
+70,Q11,Nothing really worries me,POSITIVE
+70,Q12,Not sure,NEUTRAL
+70,Q13,Neutral / unsure,NEUTRAL
+70,Q14,Maybe / Not sure,NEUTRAL
+70,Q15,Not sure,NEUTRAL
+,,,
+71,Q3,Excited or comfortable,POSITIVE
+71,Q4,Often or very often,POSITIVE
+71,Q5,Very confident,POSITIVE
+71,Q6,A little concerned,NEGATIVE
+71,Q7,Agree,POSITIVE
+71,Q8,I trust them,POSITIVE
+71,Q9,Comfortable,POSITIVE
+71,Q10,Maybe,NEUTRAL
+71,Q11,"Safety, fairness, or job loss",NEGATIVE
+71,Q12,I think it can,POSITIVE
+71,Q13,Hopeful or positive,POSITIVE
+71,Q14,Yes,POSITIVE
+71,Q15,I would trust it,POSITIVE
+72,Q3,Neutral / not sure,NEUTRAL
+72,Q4,Sometimes,NEUTRAL
+72,Q5,Somewhat confident,POSITIVE
+72,Q6,Not concerned,POSITIVE
+72,Q7,Disagree,NEGATIVE
+72,Q8,I trust them,POSITIVE
+72,Q9,Uncomfortable,NEGATIVE
+72,Q10,Absolutely necessary,NEGATIVE
+72,Q11,"Safety, fairness, or job loss",NEGATIVE
+72,Q12,I think it can,POSITIVE
+72,Q13,Neutral / unsure,NEUTRAL
+72,Q14,No,NEGATIVE
+72,Q15,I would not trust it,NEGATIVE
+73,Q3,Neutral / not sure,NEUTRAL
+73,Q4,Sometimes,NEUTRAL
+73,Q5,Somewhat confident,POSITIVE
+73,Q6,A little concerned,NEGATIVE
+73,Q7,Agree,POSITIVE
+73,Q8,I trust them,POSITIVE
+73,Q9,Comfortable,POSITIVE
+73,Q10,Maybe,NEUTRAL
+73,Q11,Nothing really worries me,POSITIVE
+73,Q12,Not sure,NEUTRAL
+73,Q13,Worried or negative,NEGATIVE
+73,Q14,Maybe / Not sure,NEUTRAL
+73,Q15,Not sure,NEUTRAL
+74,Q3,Neutral / not sure,NEUTRAL
+74,Q4,Often or very often,POSITIVE
+74,Q5,Somewhat confident,POSITIVE
+74,Q6,A little concerned,NEGATIVE
+74,Q7,Agree,POSITIVE
+74,Q8,I trust them,POSITIVE
+74,Q9,Not sure,NEUTRAL
+74,Q10,Maybe,NEUTRAL
+74,Q11,Nothing really worries me,POSITIVE
+74,Q12,I think it can,POSITIVE
+74,Q13,Neutral / unsure,NEUTRAL
+74,Q14,Yes,POSITIVE
+74,Q15,Not sure,NEUTRAL
+75,Q3,Neutral / not sure,NEUTRAL
+75,Q4,Sometimes,NEUTRAL
+75,Q5,Somewhat confident,POSITIVE
+75,Q6,A little concerned,NEGATIVE
+75,Q7,Not sure,NEUTRAL
+75,Q8,Unsure,NEUTRAL
+75,Q9,Uncomfortable,NEGATIVE
+75,Q10,Absolutely necessary,NEGATIVE
+75,Q11,Privacy or transparency,NEGATIVE
+75,Q12,I think it can,POSITIVE
+75,Q13,Neutral / unsure,NEUTRAL
+75,Q14,Yes,POSITIVE
+75,Q15,Not sure,NEUTRAL
+76,Q3,Neutral / not sure,NEUTRAL
+76,Q4,Often or very often,POSITIVE
+76,Q5,Somewhat confident,POSITIVE
+76,Q6,A little concerned,NEGATIVE
+76,Q7,Agree,POSITIVE
+76,Q8,I trust them,POSITIVE
+76,Q9,Not sure,NEUTRAL
+76,Q10,Maybe,NEUTRAL
+76,Q11,Nothing really worries me,POSITIVE
+76,Q12,I think it can,POSITIVE
+76,Q13,Hopeful or positive,POSITIVE
+76,Q14,Yes,POSITIVE
+76,Q15,Not sure,NEUTRAL
+77,Q3,Neutral / not sure,NEUTRAL
+77,Q4,Sometimes,NEUTRAL
+77,Q5,Somewhat confident,POSITIVE
+77,Q6,A little concerned,NEGATIVE
+77,Q7,Not sure,NEUTRAL
+77,Q8,I don’t trust them,NEGATIVE
+77,Q9,Uncomfortable,NEGATIVE
+77,Q10,Maybe,NEUTRAL
+77,Q11,Nothing really worries me,POSITIVE
+77,Q12,I don’t think so,NEGATIVE
+77,Q13,Worried or negative,NEGATIVE
+77,Q14,Maybe / Not sure,NEUTRAL
+77,Q15,Not sure,NEUTRAL
+78,Q3,Neutral / not sure,NEUTRAL
+78,Q4,Sometimes,NEUTRAL
+78,Q5,Not confident at all,NEGATIVE
+78,Q6,Very concerned,NEGATIVE
+78,Q7,Agree,POSITIVE
+78,Q8,Unsure,NEUTRAL
+78,Q9,Comfortable,POSITIVE
+78,Q10,Maybe,NEUTRAL
+78,Q11,Privacy or transparency,NEGATIVE
+78,Q12,I think it can,POSITIVE
+78,Q13,Neutral / unsure,NEUTRAL
+78,Q14,Maybe / Not sure,NEUTRAL
+78,Q15,I would not trust it,NEGATIVE
+79,Q3,Excited or comfortable,POSITIVE
+79,Q4,Sometimes,NEUTRAL
+79,Q5,Not confident at all,NEGATIVE
+79,Q6,A little concerned,NEGATIVE
+79,Q7,Agree,POSITIVE
+79,Q8,Unsure,NEUTRAL
+79,Q9,Comfortable,POSITIVE
+79,Q10,Absolutely necessary,NEGATIVE
+79,Q11,Privacy or transparency,NEGATIVE
+79,Q12,I think it can,POSITIVE
+79,Q13,Neutral / unsure,NEUTRAL
+79,Q14,Yes,POSITIVE
+79,Q15,Not sure,NEUTRAL
+80,Q3,Neutral / not sure,NEUTRAL
+80,Q4,Sometimes,NEUTRAL
+80,Q5,Somewhat confident,POSITIVE
+80,Q6,Very concerned,NEGATIVE
+80,Q7,Agree,POSITIVE
+80,Q8,Unsure,NEUTRAL
+80,Q9,Not sure,NEUTRAL
+80,Q10,Maybe,NEUTRAL
+80,Q11,Privacy or transparency,NEGATIVE
+80,Q12,Not sure,NEUTRAL
+80,Q13,Neutral / unsure,NEUTRAL
+80,Q14,Maybe / Not sure,NEUTRAL
+80,Q15,I would not trust it,NEGATIVE
+,,,
+81,Q3,Excited or comfortable,POSITIVE
+81,Q4,Often or very often,POSITIVE
+81,Q5,Somewhat confident,POSITIVE
+81,Q6,A little concerned,NEGATIVE
+81,Q7,Agree,POSITIVE
+81,Q8,I trust them,POSITIVE
+81,Q9,Comfortable,POSITIVE
+81,Q10,Maybe,NEUTRAL
+81,Q11,Privacy or transparency,NEGATIVE
+81,Q12,Not sure,NEUTRAL
+81,Q13,Hopeful or positive,POSITIVE
+81,Q14,Yes,POSITIVE
+81,Q15,Not sure,NEUTRAL
+82,Q3,Excited or comfortable,POSITIVE
+82,Q4,Sometimes,NEUTRAL
+82,Q5,Very confident,POSITIVE
+82,Q6,A little concerned,NEGATIVE
+82,Q7,Disagree,NEGATIVE
+82,Q8,Unsure,NEUTRAL
+82,Q9,Comfortable,POSITIVE
+82,Q10,Absolutely necessary,NEGATIVE
+82,Q11,"Safety, fairness, or job loss",NEGATIVE
+82,Q12,Not sure,NEUTRAL
+82,Q13,Hopeful or positive,POSITIVE
+82,Q14,Yes,POSITIVE
+82,Q15,I would trust it,POSITIVE
+83,Q3,Excited or comfortable,POSITIVE
+83,Q4,Often or very often,POSITIVE
+83,Q5,Somewhat confident,POSITIVE
+83,Q6,A little concerned,NEGATIVE
+83,Q7,Agree,POSITIVE
+83,Q8,I trust them,POSITIVE
+83,Q9,Not sure,NEUTRAL
+83,Q10,Maybe,NEUTRAL
+83,Q11,Privacy or transparency,NEGATIVE
+83,Q12,Not sure,NEUTRAL
+83,Q13,Hopeful or positive,POSITIVE
+83,Q14,Yes,POSITIVE
+83,Q15,I would trust it,POSITIVE
+84,Q3,Excited or comfortable,POSITIVE
+84,Q4,Often or very often,POSITIVE
+84,Q5,Very confident,POSITIVE
+84,Q6,Very concerned,NEGATIVE
+84,Q7,Agree,POSITIVE
+84,Q8,Unsure,NEUTRAL
+84,Q9,Not sure,NEUTRAL
+84,Q10,Maybe,NEUTRAL
+84,Q11,Nothing really worries me,POSITIVE
+84,Q12,I think it can,POSITIVE
+84,Q13,Hopeful or positive,POSITIVE
+84,Q14,Maybe / Not sure,NEUTRAL
+84,Q15,I would trust it,POSITIVE
+85,Q3,Neutral / not sure,NEUTRAL
+85,Q4,Often or very often,POSITIVE
+85,Q5,Somewhat confident,POSITIVE
+85,Q6,Very concerned,NEGATIVE
+85,Q7,Disagree,NEGATIVE
+85,Q8,I trust them,POSITIVE
+85,Q9,Comfortable,POSITIVE
+85,Q10,Absolutely necessary,NEGATIVE
+85,Q11,"Safety, fairness, or job loss",NEGATIVE
+85,Q12,I think it can,POSITIVE
+85,Q13,Neutral / unsure,NEUTRAL
+85,Q14,Yes,POSITIVE
+85,Q15,I would not trust it,NEGATIVE
+86,Q3,Neutral / not sure,NEUTRAL
+86,Q4,Sometimes,NEUTRAL
+86,Q5,Somewhat confident,POSITIVE
+86,Q6,Not concerned,POSITIVE
+86,Q7,Not sure,NEUTRAL
+86,Q8,Unsure,NEUTRAL
+86,Q9,Not sure,NEUTRAL
+86,Q10,Not necessary,POSITIVE
+86,Q11,Nothing really worries me,POSITIVE
+86,Q12,Not sure,NEUTRAL
+86,Q13,Neutral / unsure,NEUTRAL
+86,Q14,Maybe / Not sure,NEUTRAL
+86,Q15,Not sure,NEUTRAL
+87,Q3,Worried or uneasy,NEGATIVE
+87,Q4,Sometimes,NEUTRAL
+87,Q5,Somewhat confident,POSITIVE
+87,Q6,A little concerned,NEGATIVE
+87,Q7,Not sure,NEUTRAL
+87,Q8,Unsure,NEUTRAL
+87,Q9,Uncomfortable,NEGATIVE
+87,Q10,Maybe,NEUTRAL
+87,Q11,"Safety, fairness, or job loss",NEGATIVE
+87,Q12,Not sure,NEUTRAL
+87,Q13,Worried or negative,NEGATIVE
+87,Q14,Maybe / Not sure,NEUTRAL
+87,Q15,Not sure,NEUTRAL
+,,,
+88,Q3,Neutral / not sure,NEUTRAL
+88,Q4,Sometimes,NEUTRAL
+88,Q5,Somewhat confident,POSITIVE
+88,Q6,Not concerned,POSITIVE
+88,Q7,Not sure,NEUTRAL
+88,Q8,Unsure,NEUTRAL
+88,Q9,Not sure,NEUTRAL
+88,Q10,Not necessary,POSITIVE
+88,Q11,Nothing really worries me,POSITIVE
+88,Q12,Not sure,NEUTRAL
+88,Q13,Neutral / unsure,NEUTRAL
+88,Q14,Maybe / Not sure,NEUTRAL
+88,Q15,Not sure,NEUTRAL
+89,Q3,Worried or uneasy,NEGATIVE
+89,Q4,Sometimes,NEUTRAL
+89,Q5,Somewhat confident,POSITIVE
+89,Q6,A little concerned,NEGATIVE
+89,Q7,Not sure,NEUTRAL
+89,Q8,Unsure,NEUTRAL
+89,Q9,Uncomfortable,NEGATIVE
+89,Q10,Maybe,NEUTRAL
+89,Q11,"Safety, fairness, or job loss",NEGATIVE
+89,Q12,Not sure,NEUTRAL
+89,Q13,Worried or negative,NEGATIVE
+89,Q14,Maybe / Not sure,NEUTRAL
+89,Q15,Not sure,NEUTRAL
+90,Q3,Neutral / not sure,NEUTRAL
+90,Q4,Sometimes,NEUTRAL
+90,Q5,Not confident at all,NEGATIVE
+90,Q6,A little concerned,NEGATIVE
+90,Q7,Not sure,NEUTRAL
+90,Q8,Unsure,NEUTRAL
+90,Q9,Not sure,NEUTRAL
+90,Q10,Maybe,NEUTRAL
+90,Q11,"Safety, fairness, or job loss",NEGATIVE
+90,Q12,I don’t think so,NEGATIVE
+90,Q13,Neutral / unsure,NEUTRAL
+90,Q14,Maybe / Not sure,NEUTRAL
+90,Q15,Not sure,NEUTRAL
+91,Q3,Neutral / not sure,NEUTRAL
+91,Q4,Sometimes,NEUTRAL
+91,Q5,Somewhat confident,POSITIVE
+91,Q6,Not concerned,POSITIVE
+91,Q7,Not sure,NEUTRAL
+91,Q8,Unsure,NEUTRAL
+91,Q9,Uncomfortable,NEGATIVE
+91,Q10,Maybe,NEUTRAL
+91,Q11,Privacy or transparency,NEGATIVE
+91,Q12,I don’t think so,NEGATIVE
+91,Q13,Worried or negative,NEGATIVE
+91,Q14,Maybe / Not sure,NEUTRAL
+91,Q15,Not sure,NEUTRAL
+92,Q3,Neutral / not sure,NEUTRAL
+92,Q4,Often or very often,POSITIVE
+92,Q5,Somewhat confident,POSITIVE
+92,Q6,Not concerned,POSITIVE
+92,Q7,Agree,POSITIVE
+92,Q8,I trust them,POSITIVE
+92,Q9,Not sure,NEUTRAL
+92,Q10,Maybe,NEUTRAL
+92,Q11,Privacy or transparency,NEGATIVE
+92,Q12,I think it can,POSITIVE
+92,Q13,Hopeful or positive,POSITIVE
+92,Q14,Yes,POSITIVE
+92,Q15,I would trust it,POSITIVE
+93,Q3,Excited or comfortable,POSITIVE
+93,Q4,Often or very often,POSITIVE
+93,Q5,Somewhat confident,POSITIVE
+93,Q6,Very concerned,NEGATIVE
+93,Q7,Agree,POSITIVE
+93,Q8,I trust them,POSITIVE
+93,Q9,Comfortable,POSITIVE
+93,Q10,Maybe,NEUTRAL
+93,Q11,Privacy or transparency,NEGATIVE
+93,Q12,I think it can,POSITIVE
+93,Q13,Hopeful or positive,POSITIVE
+93,Q14,Yes,POSITIVE
+93,Q15,I would trust it,POSITIVE
+94,Q3,Excited or comfortable,POSITIVE
+94,Q4,Often or very often,POSITIVE
+94,Q5,Somewhat confident,POSITIVE
+94,Q6,A little concerned,NEGATIVE
+94,Q7,Agree,POSITIVE
+94,Q8,I don’t trust them,NEGATIVE
+94,Q9,Comfortable,POSITIVE
+94,Q10,Maybe,NEUTRAL
+94,Q11,Nothing really worries me,POSITIVE
+94,Q12,I think it can,POSITIVE
+94,Q13,Hopeful or positive,POSITIVE
+94,Q14,Yes,POSITIVE
+94,Q15,Not sure,NEUTRAL
+95,Q3,Excited or comfortable,POSITIVE
+95,Q4,Sometimes,NEUTRAL
+95,Q5,Very confident,POSITIVE
+95,Q6,A little concerned,NEGATIVE
+95,Q7,Not sure,NEUTRAL
+95,Q8,I trust them,POSITIVE
+95,Q9,Comfortable,POSITIVE
+95,Q10,Maybe,NEUTRAL
+95,Q11,"Safety, fairness, or job loss",NEGATIVE
+95,Q12,I don’t think so,NEGATIVE
+95,Q13,Worried or negative,NEGATIVE
+95,Q14,Maybe / Not sure,NEUTRAL
+95,Q15,I would trust it,POSITIVE
+96,Q3,Don’t know anything about it,NEGATIVE
+96,Q4,Often or very often,POSITIVE
+96,Q5,Somewhat confident,POSITIVE
+96,Q6,Very concerned,NEGATIVE
+96,Q7,Disagree,NEGATIVE
+96,Q8,I trust them,POSITIVE
+96,Q9,Comfortable,POSITIVE
+96,Q10,Maybe,NEUTRAL
+96,Q11,Privacy or transparency,NEGATIVE
+96,Q12,Not sure,NEUTRAL
+96,Q13,Hopeful or positive,POSITIVE
+96,Q14,Maybe / Not sure,NEUTRAL
+96,Q15,Not sure,NEUTRAL
+97,Q3,Neutral / not sure,NEUTRAL
+97,Q4,Sometimes,NEUTRAL
+97,Q5,Excited or comfortable,POSITIVE
+97,Q6,Somewhat confident,POSITIVE
+97,Q7,Agree,POSITIVE
+97,Q8,Unsure,NEUTRAL
+97,Q9,Comfortable,POSITIVE
+97,Q10,Maybe,NEUTRAL
+97,Q11,Privacy or transparency,NEGATIVE
+97,Q12,Not sure,NEUTRAL
+97,Q13,Hopeful or positive,POSITIVE
+97,Q14,Yes,POSITIVE
+97,Q15,I would trust it,POSITIVE
+,,,
+98,Q3,Neutral / not sure,NEUTRAL
+98,Q4,Often or very often,POSITIVE
+98,Q5,Somewhat confident,POSITIVE
+98,Q6,Very concerned,NEGATIVE
+98,Q7,Disagree,NEGATIVE
+98,Q8,I trust them,POSITIVE
+98,Q9,Comfortable,POSITIVE
+98,Q10,Maybe,NEUTRAL
+98,Q11,Privacy or transparency,NEGATIVE
+98,Q12,I think it can,POSITIVE
+98,Q13,Worried or negative,NEGATIVE
+98,Q14,Maybe / Not sure,NEUTRAL
+98,Q15,Not sure,NEUTRAL
+99,Q3,Neutral / not sure,NEUTRAL
+99,Q4,Often or very often,POSITIVE
+99,Q5,Somewhat confident,POSITIVE
+99,Q6,Not concerned,POSITIVE
+99,Q7,Disagree,NEGATIVE
+99,Q8,I don’t trust them,NEGATIVE
+99,Q9,Not sure,NEUTRAL
+99,Q10,Absolutely necessary,POSITIVE
+99,Q11,Nothing really worries me,POSITIVE
+99,Q12,I think it can,POSITIVE
+99,Q13,Hopeful or positive,POSITIVE
+99,Q14,Maybe / Not sure,NEUTRAL
+99,Q15,I would not trust it,NEGATIVE
+100,Q3,Excited or comfortable,POSITIVE
+100,Q4,Sometimes,NEUTRAL
+100,Q5,Somewhat confident,POSITIVE
+100,Q6,A little concerned,NEGATIVE
+100,Q7,Agree,POSITIVE
+100,Q8,Unsure,NEUTRAL
+100,Q9,Comfortable,POSITIVE
+100,Q10,Maybe,NEUTRAL
+100,Q11,Privacy or transparency,NEGATIVE
+100,Q12,Not sure,NEUTRAL
+100,Q13,Hopeful or positive,POSITIVE
+100,Q14,Yes,POSITIVE
+100,Q15,I would trust it,POSITIVE
+101,Q3,Excited or comfortable,POSITIVE
+101,Q4,Sometimes,NEUTRAL
+101,Q5,Somewhat confident,POSITIVE
+101,Q6,Very concerned,NEGATIVE
+101,Q7,Not sure,NEUTRAL
+101,Q8,Unsure,NEUTRAL
+101,Q9,Comfortable,POSITIVE
+101,Q10,Maybe,NEUTRAL
+101,Q11,"Safety, fairness, or job loss",NEGATIVE
+101,Q12,I don’t think so,NEGATIVE
+101,Q13,Hopeful or positive,POSITIVE
+101,Q14,,NEUTRAL
+101,Q15,Not sure,NEUTRAL
+102,Q3,Worried or uneasy,NEGATIVE
+102,Q4,Often or very often,POSITIVE
+102,Q5,Somewhat confident,POSITIVE
+102,Q6,A little concerned,NEGATIVE
+102,Q7,Not sure,NEUTRAL
+102,Q8,Unsure,NEUTRAL
+102,Q9,Not sure,NEUTRAL
+102,Q10,Maybe,NEUTRAL
+102,Q11,Privacy or transparency,NEGATIVE
+102,Q12,I think it can,POSITIVE
+102,Q13,Worried or negative,NEGATIVE
+102,Q14,Maybe / Not sure,NEUTRAL
+102,Q15,I would trust it,POSITIVE
+103,Q3,Neutral / not sure,NEUTRAL
+103,Q4,Rarely or never,NEGATIVE
+103,Q5,Somewhat confident,POSITIVE
+103,Q6,Very concerned,NEGATIVE
+103,Q7,Disagree,NEGATIVE
+103,Q8,Unsure,NEUTRAL
+103,Q9,Not sure,NEUTRAL
+103,Q10,Absolutely necessary,POSITIVE
+103,Q11,"Safety, fairness, or job loss",NEGATIVE
+103,Q12,I think it can,POSITIVE
+103,Q13,Neutral / unsure,NEUTRAL
+103,Q14,Maybe / Not sure,NEUTRAL
+103,Q15,I would not trust it,NEGATIVE
+104,Q3,Excited or comfortable,POSITIVE
+104,Q4,Often or very often,POSITIVE
+104,Q5,Somewhat confident,POSITIVE
+104,Q6,A little concerned,NEGATIVE
+104,Q7,Not sure,NEUTRAL
+104,Q8,Unsure,NEUTRAL
+104,Q9,Comfortable,POSITIVE
+104,Q10,Maybe,NEUTRAL
+104,Q11,Privacy or transparency,NEGATIVE
+104,Q12,I think it can,POSITIVE
+104,Q13,Hopeful or positive,POSITIVE
+104,Q14,Maybe / Not sure,NEUTRAL
+104,Q15,I would not trust it,NEGATIVE
+105,Q3,Neutral / not sure,NEUTRAL
+105,Q4,Sometimes,NEUTRAL
+105,Q5,Somewhat confident,POSITIVE
+105,Q6,Very concerned,NEGATIVE
+105,Q7,Agree,POSITIVE
+105,Q8,Unsure,NEUTRAL
+105,Q9,Uncomfortable,NEGATIVE
+105,Q10,Maybe,NEUTRAL
+105,Q11,Privacy or transparency,NEGATIVE
+105,Q12,I think it can,POSITIVE
+105,Q13,Worried or negative,NEGATIVE
+105,Q14,Yes,POSITIVE
+105,Q15,I would trust it,POSITIVE
+106,Q3,Neutral / not sure,NEUTRAL
+106,Q4,Often or very often,POSITIVE
+106,Q5,Somewhat confident,POSITIVE
+106,Q6,Not concerned,POSITIVE
+106,Q7,Disagree,NEGATIVE
+106,Q8,I don’t trust them,NEGATIVE
+106,Q9,Uncomfortable,NEGATIVE
+106,Q10,Absolutely necessary,POSITIVE
+106,Q11,Privacy or transparency,NEGATIVE
+106,Q12,I think it can,POSITIVE
+106,Q13,Hopeful or positive,POSITIVE
+106,Q14,Maybe / Not sure,NEUTRAL
+106,Q15,I would not trust it,NEGATIVE
+107,Q3,Neutral / not sure,NEUTRAL
+107,Q4,Often or very often,POSITIVE
+107,Q5,Somewhat confident,POSITIVE
+107,Q6,Very concerned,NEGATIVE
+107,Q7,Agree,POSITIVE
+107,Q8,Unsure,NEUTRAL
+107,Q9,Comfortable,POSITIVE
+107,Q10,Absolutely necessary,POSITIVE
+107,Q11,Privacy or transparency,NEGATIVE
+107,Q12,I think it can,POSITIVE
+107,Q13,Worried or negative,NEGATIVE
+107,Q14,Yes,POSITIVE
+107,Q15,I would trust it,POSITIVE
+108,Q3,Very confident,POSITIVE
+108,Q4,Sometimes,NEUTRAL
+108,Q5,Excited or comfortable,POSITIVE
+108,Q6,A little concerned,NEGATIVE
+108,Q7,Not sure,NEUTRAL
+108,Q8,I trust them,POSITIVE
+108,Q9,Comfortable,POSITIVE
+108,Q10,Maybe,NEUTRAL
+108,Q11,"Safety, fairness, or job loss",NEGATIVE
+108,Q12,I don’t think so,NEGATIVE
+108,Q13,Worried or negative,NEGATIVE
+108,Q14,Maybe / Not sure,NEUTRAL
+108,Q15,I would trust it,POSITIVE
+109,Q3,Neutral / not sure,NEUTRAL
+109,Q4,Often or very often,POSITIVE
+109,Q5,Neutral / not sure,NEUTRAL
+109,Q6,A little concerned,NEGATIVE
+109,Q7,Not sure,NEUTRAL
+109,Q8,Unsure,NEUTRAL
+109,Q9,Comfortable,POSITIVE
+109,Q10,Maybe,NEUTRAL
+109,Q11,Privacy or transparency,NEGATIVE
+109,Q12,I think it can,POSITIVE
+109,Q13,Hopeful or positive,POSITIVE
+109,Q14,Maybe / Not sure,NEUTRAL
+109,Q15,I would not trust it,NEGATIVE
+110,Q3,Neutral / not sure,NEUTRAL
+110,Q4,Sometimes,NEUTRAL
+110,Q5,Somewhat confident,POSITIVE
+110,Q6,A little concerned,NEGATIVE
+110,Q7,Agree,POSITIVE
+110,Q8,Unsure,NEUTRAL
+110,Q9,Not sure,NEUTRAL
+110,Q10,Maybe,NEUTRAL
+110,Q11,"Safety, fairness, or job loss",NEGATIVE
+110,Q12,Not sure,NEUTRAL
+110,Q13,Worried or negative,NEGATIVE
+110,Q14,Maybe / Not sure,NEUTRAL
+110,Q15,Not sure,NEUTRAL
